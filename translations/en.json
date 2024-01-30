@@ -1,0 +1,1366 @@
+{
+  "RootLayout": {
+    "keywords": [
+      "pordevans"
+    ]
+  },
+  "NavigationPage": {
+    "home": "Home",
+    "services": "Services",
+    "products": "Products",
+    "partners": "Partners",
+    "contact": "Contact",
+    "close": "Close",
+    "prodevans": "Prodevans",
+    "submit": "Submit"
+  },
+  "Locales": {
+    "en": "English",
+    "de": "German",
+    "cs": "Czech",
+    "ar": "Arabic",
+    "th": "Thai",
+    "ja": "Japanese",
+    "icons": "flagicons"
+  },
+  "HomePage": {
+    "title": "Prodevans - Tech Like Never Before",
+    "description": "Prodevans is a leading technology solution provider specialising in end to end DevOps offerings that streamline and automate IT delivery.",
+    "header": {
+      "bannerAltText": "banner",
+      "headers": {
+        "digitalMasterpiece": {
+        "title": "Revitalize Your Business, Embrace the Future",
+        "subTitle": "CRAFTING YOUR DIGITAL MASTERPIECE",
+        "description": "At Prodevans, we empower businesses in the digital era with innovative technology solutions"
+        },
+        "introZtrust": {
+          "title": "A one-stop solution for hassle-free Identity & Access Management",
+          "subTitle": "INTRODUCING ZTrust",
+          "description": "Seamless Omnichannel Login Experience - An effortless, secure, and more efficient method to  access your services."
+        },
+        "searchSmarter": {
+          "title": "Reimagine your business in the cloud...",
+          "subTitle": "DON'T JUST MIGRATE, ELEVATE",
+          "description": "Ditch the digital drag. Transform your business, one byte at a time, with our tailored cloud solutions. Boost efficiency, slash costs, scale with ease. Our cloud expertise fuels your success, byte by byte."
+        }
+      },
+      "cloud": "Cloud",
+      "devops": "DevOps",
+      "monitoring": "Monitoring",
+      "management": "Management",
+      "automation": "Automation",
+      "knowMore": "Know More",
+      "support": "support",
+      "calendar": "calendar",
+      "like": "like"
+    },
+    "quickHelp": {
+      "registration": {
+        "title": "Register Today",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "firstName": "First Name",
+        "lastName":"Last Name",
+        "email": "Enter your email",
+        "overview": "Enter profession",
+        "submit": "Submit",
+        "mobile": " Mobile number"
+      },
+      "validation": {
+        "firstName": "First Name cannot contain numbers",
+        "lastName": "Last Name cannot contain numbers",
+        "email": "Invalid email address",
+        "mobile": "Mobile should be valid number"
+      },
+      "requiredField": {
+        "firstName": "First Name is required",
+        "lastName": "Last Name is required",
+        "email": "Email is required",
+        "mobile": "Mobile number is required",
+        "overview": "Overview is required"
+      },
+      "loaderMessage": {
+        "createUser": "Please wait.. Creating user with email: ",
+        "searchEmail": "Please wait.. Checking if user exists or not",
+        "createTicket": "Please wait..  Book a event"
+      },
+      "toastMessage": {
+        "serverError": "We could not able to create booking event calendar. Please try again later",
+        "createTicket": "We have recieved your message. very soon  our support team connect with you. Here is the ticket No for reference : "
+      }
+    },
+    "footer": {
+      "registration": {
+        "title": "Register Today",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "name": "Name",
+        "email": "Enter your email",
+        "profession": "Select profession",
+        "submit": "Submit"
+      }
+    },
+    "digitalJourney": {
+      "header": {
+        "we": "We",
+        "expedite": "Expedite",
+        "journey": "your Digital Transformation Journey"
+      },
+      "subHeader": "Prodevans is an ISO 9001 | 27001 | 20000 Accredited Certified Company,a leading technology solution provider specialising in end-to-end DevOps offerings that streamline and automate IT delivery. We specialize in the entire spectrum of Cloud Solutions from IaaS, PaaS to SaaS. We strive to offer solutions that are time-driven & efficient with a stringent focus on ROI. Prodevans helps you deliver great customer experience by deploying the right Cloud-based tools and resources.",
+      "monolithic": "Monolithic IT Infrastructure",
+      "legacyApp": "Legacy Applications",
+      "logoAltText": "Prodevans Blue logo",
+      "automation": "Automation",
+      "devOps": "DevSecOps",
+      "applicationTransformation": "Application Transformation",
+      "monitoring": "360 Monitoring",
+      "training": "Training",
+      "publicCloud": "Public and Private Cloud",
+      "cloudNative": "Cloud Native Application",
+      "microService": "Micro-service Application",
+      "automatedMonitoring": "Automated Monitoring & Notification",
+      "solution": "OUR SOLUTIONS",
+      "geolocation": "Geolocation based",
+      "cloudStrategy": "Cloud Optimisation Strategy",
+      "fasterDeployment": "Faster App Build and Deployment",
+      "orgPolicies": "Complaint with Org Policies",
+      "cache": "Cache",
+      "authentication": "SSO Authentication",
+      "channel": "Omni Channel",
+      "engine": "Rule Engine"
+    },
+    "chooseProdevans": {
+      "header": {
+        "shouldChoose": "Why should you choose",
+        "us": "us?"
+      },
+      "comprehensiveExpertise": {
+        "header": "Comprehensive Expertise",
+        "content": "Benefit from a broad spectrum of services, including digital transformation, IT infrastructure management, and software reseller (channel sales). Our diverse expertise ensures we can address your unique business needs comprehensively."
+      },
+      "bespokeSolution": {
+        "header": "Bespoke Solution",
+        "content": "Custom solutions built on top of enterprise opensource and supported against SLA. Specific, innovative, bespoke and novel use cases addressed for F500 customers."
+      },
+      "tailoredSolutions": {
+        "header": "Tailored Solutions",
+        "content": "Recognizing that every business is distinct, we specialize in crafting tailored solutions. Whether you require a digital overhaul, robust IT infrastructure management, or access to cutting-edge software through our channel sales, our solutions are designed to fit seamlessly into your operations."
+      },
+      "endtoendSupport": {
+        "header": "End-to-End Support",
+        "content": "From the initial consultation to implementation and ongoing support, Prodevans provides end-to-end services. We are your dedicated partner throughout the entire lifecycle of your technology solutions."
+      }
+    },
+    "mission": {
+      "header": "Delivering cutting-edge tech solutions for your team",
+      "circle": "circle",
+      "altName": "Dotted Line",
+      "mission": {
+        "title": "Mission",
+        "description": "Suggestion To make your applications work as efficiently as possible irrespective of the target deployment platform."
+      },
+      "vision": {
+        "title": "Vision",
+        "description": "PRODEVANS will continuously strive to be in the leading edge of technology landscape and delight."
+      },
+      "values": {
+        "title": "Values",
+        "description": "We believe Happy Employees = Happy Customers. We ensure Prodevanians get a exciting and simulating work."
+      }
+    },
+    "expertise": {
+      "header": {
+        "title": "Our",
+        "expertise": "Expertise"
+      },
+      "subHeader": " We focus on Cloud Native Application Development, Infrastructure As code , DevSecOps, Containers and Container Orchestration, Virtualization and Cloud Technologies , Infrastructure Automation",
+      "cloudService": {
+        "number": "1.",
+        "header": "Cloud services",
+        "content": "Prodevans specializes in delivering comprehensive cloud services on both public and private clouds across D0, D1. D2 ops. We are partners to multiple OEMS  . With extensive expertise in VMware, OpenStack, and Nutanix we can help you irrespective of the technology choices. We have delivered solutions based on various orchestration / management planes around multiple compute, storage and network technologies"
+      },
+      "applicationModeration": {
+        "number": "2.",
+        "header": "Application Modernisation",
+        "content": "Organisations are embracing cloud technologies to enhance cost-effectiveness and boost returns on investment. As part of this process, they are adopting containerisation and migrating legacy applications. However, many companies face challenges due to skill shortages and the evolving nature of Kubernetes and Docker. Prodevans offers its expertise and experience in Open Source technologies to help organisations successfully navigate this journey and become self-sufficient in container adoption."
+      },
+      "monitoring": {
+        "number": "3.",
+        "header": "360 Degree Monitoring",
+        "content": "Prodevans offers comprehensive 360-degree monitoring solutions for applications and infrastructure, ensuring optimal performance and reliability. As partners with ELK (Elasticsearch, Logstash, Kibana), we provide robust log management and analytics capabilities to gain valuable insights into system behavior. We are also well versed with  native monitoring stacks of leading public cloud providers, such as AWS CloudWatch and Azure Monitor & sentinel and other OEM tools such as MicroFocus SIEM, ManageEngine, Dynatrace, Splunk, DataDog."
+      },
+      "accessManagement": {
+        "number": "4.",
+        "header": "Identity & Access Management",
+        "content": " Prodevans in house developed Identity and Access Management solution ZTrust offers a simple, secure and reliable way to deliver a single sign-on experience for your customers— as well as providing peace of mind for your IT team. Customers can move seamlessly through a transaction with your organisation, without needing to login to other applications."
+      }
+    },
+    "system": {
+      "title": "That's how we work our",
+      "system": "System",
+      "knowMore": "Know More",
+      "like": "Like",
+      "support": "Support",
+      "calendar": "Calendar",
+      "dataCenter": {
+        "title": "Our team at data Center",
+        "description": "Our team undertake comprehensive end-to-end tasks which encompass a range of crucial activities, such as cluster setup, application deployment, and implementing stringent security measures to ensure data integrity and safeguard against potential threats. From the initial planning stages to the final execution, our team works diligently to deliver seamless and efficient solutions for our clients. With a keen eye on industry best practices, we tailor our approach to meet the specific needs of each project, guaranteeing optimal performance and reliability."
+      },
+      "professionalCoders": {
+        "title": "Team of professional coders",
+        "description": "We boast a talented COE development team dedicated to pioneering tech advancements, spanning from web app development to mobile and standalone app creation, employing state-of-the-art languages and frameworks. Additionally, we take pride in our diverse lineup of proprietary products, with our team actively involved in their development and enhancement."
+      },
+      "discussionTeam": {
+        "title": "Discussion of business ideas as a team",
+        "description": "Our team of BAs and SMEs thoroughly discusses project requirements with the customers, creating a detailed Business Requirements Document (BRD). We then outline the business flow and design a technical architecture, emphasizing effective communication for successful project delivery and meeting customer's unique business needs"
+      }
+    },
+    "partners": {
+      "header": {
+        "our": "Our",
+        "partners": "Partners"
+      }
+    },
+    "trustedUs": {
+      "header": "They Trust",
+      "sideHeader": " Us",
+      "subHeader": "We are happy because we have happy customers",
+      "altNmae": "Trusted Us",
+      "testimonials": {
+        "poojara": {
+          "testimonial": "Setting up and managing labs is a constant headache. After watching the demo of PDCloudEX, I am confident that it provides a way out of this mess. It is our one-stop-solution to manage all our Lab sessions and projects. Kudos to Prodevans Team for their innovation!",
+          "name": "Mr. S. R. Poojara",
+          "role": "Assistant Professor",
+          "company": "Computer Science and Engineering, RIT Rajaramnagar, India"
+        },
+        "rajkumar": {
+          "testimonial": "Cloud in a Box (PDcloudEx) offers ready to use standard infrastructure for empowering and educating next generation software engineers with skills in Cloud application programming using Aneka and conducting advance research in powering emerging Big Data and Internet of Things (IoT) applications.",
+          "name": "Dr Rajkumar Buyya",
+          "role": "Distinguished Professor",
+          "company": "Redmond Barry"
+        },
+        "aneesh": {
+          "testimonial": "Setting up the labs when there are frequent changes is cumbersome and time consuming. Delivering on ROI is almost impossible with the number of students fluctuating all the time. PDCloudEX gave us the flexibility without compromising on availability. Whether it is public or private cloud, the students now have a way of accessing the labs anywhere, anytime. We scale up and down as needed. Thanks to PDCloudEX, we now manage our labs with minimal downtime, focussing our energies on course offerings rather than worrying about Infrastructure.",
+          "name": "PV Aneesh",
+          "role": "Manager",
+          "company": "Global Learning Services, Red Hat INDIA"
+        },
+        "abhijeet": {
+          "testimonial": "Having been with Red Hat for over a decade and having met numerous Academicians and Enterprise users, I can say with certainty that most of them are eager to go with Red Hat or Open Source technologies to minimise their investment. We have been waiting for product just like 'PDCloudEX', a game changer when it comes to minimising costs. What's more, it gives the students exposure to cutting-edge technologies which is indeed the need of the hour. Amazing technology. Amazing People",
+          "name": "Abhijeet Roy",
+          "role": "APAC Head",
+          "company": "Training & Certification, Star Certification"
+        },
+        "sowmya": {
+          "testimonial": "We extend our heartiest appreciation towards you for the excellent work done by you in Setting up App Backend on Tanzu cluster for Central Bank Digital Currency (CBDC) Project. You have benefited us and have always worked wholeheartedly towards the progress of this Project. With this attitude of yours, all the stakeholders have appreciated your work style and involvement. Your zeal to learn new things and commitment towards a task is praiseworthy. We recognize your sincere performance, professionalism, hard work and commitment. We hope that you will continue your spirit in the same way in future also. Keep it up.",
+          "name": "N Sowmya",
+          "role": "Asst. General Manager (Systems)",
+          "company": "State Bank of India"
+        }
+      }
+    },
+    "clients": {
+      "header": {
+        "our": "Our",
+        "clients": "Clients"
+      }
+    },
+    "projectsAcrossTheGlobe": {
+      "header": "We execute projects across the globe"
+    }
+  },
+  "ProductsPage": {
+    "title": "Prodevans Products - Elevate Your Tech Stack",
+    "description": "Explore our innovative technology products designed to enhance your business operations and boost efficiency.",
+    "header": "OUR PRODUCTS",
+    "subHeader": " Empowering Your Business's Potential-At Prodevans, we are committed to providing innovative products that empower your business for a successful tomorrow",
+    "products": "ALL THE PRODUCTS : ",
+    "knowMore": "Know More",
+    "showLess": "Show Less",
+    "previous": "Previous",
+    "next": "Next",
+    "comingSoon": "Coming Soon",
+    "cloudex": {
+      "title": "PDCloudEX SDN",
+      "description": "PDCloudEx SDN is a software-defined networking solution which provides an intra-datacenter connectivity for virtual and physical workloads on the cloud. Built on OpenDayLight, OpenVSwitch and Openstack, the product provides a disaggregation for both software and hardware components in a network, while providing full control over the virtual networks.  Our technology enables full network virtualization and allows enterprises, data centers and service providers to easily deploy, control, monitor and manage secure multi-tenant network infrastructure. In other words, it is a comprehensive solution that makes the network as readily consumable as compute resources across the datacenter, enterprise WAN and public cloud providers.",
+      "content": "It does so by providing the missing link to ensure rapid and efficient delivery of highly customizable application services, in and across multi-tenanted data centers. The product also takes advantage of OpenStack, allowing PDCloudEx SD to look deep into the aspects for next-generation real-time analytics, security and remediation.",
+      "benefits": "Key benefits of PDCloudEX SDN",
+      "scalability": {
+        "title": "Scalability",
+        "description": "Ability to ramp-up/ramp-down SDN Controllers; thus efficiently managing and distributing work-loads"
+      },
+      "flexibility": {
+        "title": "Flexibility",
+        "description": "Solution for cloud and NFV environments to improve business flexibility and enhances security, availability and performance"
+      },
+      "cost": {
+        "title": "Cost",
+        "description": "Automated virtual network resource provisioning, configuration, and operation of networking and security resources minimizes manual intervention while improving operational efficiency and cutting operational costs."
+      },
+      "userFriendly": {
+        "title": "User Friendly",
+        "description": "Ability to ramp-up/ramp-down SDN Controllers; thus efficiently managing and distributing work-loads"
+      },
+      "secure": {
+        "title": "Secure",
+        "description": "Provides security and isolation by decoupling control and forward planes and enabling the AAA services"
+      },
+      "learn": "To learn more in depth about the product",
+      "link": "Click on the link Below",
+      "clickHere": "Click Here"
+    },
+    "iventura": {
+      "title": "IVentura",
+      "description": "IVentura is a one-stop self-service platform for analytics and Machine Learning that provides a collection of ML components and services natively running on Kubernetes. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo ",
+      "features": {
+        "title": "Our Features!",
+        "description": "You worry about the Modelling, Leave everything else to us."
+      },
+      "setup": {
+        "title": "One Touch Setup",
+        "description": "iVentura is a fully managed platform. It seamlessly scales as per the resource demands. Fully supported through robust logging and security mechanism."
+      },
+      "support": {
+        "title": "Container Support",
+        "description": "Developers can code in their own secure environment – provisioned automatically when they log in."
+      },
+      "scaling": {
+        "title": "Scaling on the Go",
+        "description": "iVentura comes as a bundled package which can be installed on the go on-prem or cloud. The iVentura Eco System Scales on Demand. Is Secure. Deploys Models on a click of a button. Shares visualizations as URLs."
+      },
+      "security": {
+        "title": "Security & IAM",
+        "description": "Developer space can only be accessed through secure authentication. Each space executes independently of others."
+      },
+      "browser": {
+        "title": "Developer Browser IDE",
+        "description": "All inclusive IDE where Data Scientists can search and upload libraries, collaborate with other teams, code in language of their choice: Python, R, NodeJs. Integrate with Source Systems. Build Models in a Secure environment. Quickly Deploy and share models as URLs."
+      },
+      "delivery": {
+        "title": "Continuous Delivery",
+        "description": "Developers can collaborate with other teams. They can deploy changes seamlessly within minutes."
+      },
+      "learn": "To learn more in depth about the product",
+      "link": "Click on the link Below",
+      "clickHere": "Click Here"
+    },
+    "assessit": {
+      "title": "AssessIT"
+    },
+    "sso": {
+      "title": "ZTrust SSO"
+    }
+  },
+  "ServicesPage": {
+    "title": "Prodevans Services - Tailored Tech Solutions",
+    "description": "Discover our comprehensive range of technology services, custom-built to meet your specific needs.",
+    "header": "OUR SERVICES",
+    "subHeader": "Services to Shape your Tomorrow",
+    "content": "We provide Technology, Infrastructure, and People solution, carefully crafted by our team of problem solvers and Technologists, to de-risk operations, Unhigne growth, and future proof your Business",
+    "allServices": "All THE SERVICES :",
+    "knowMore": "Know More",
+    "showLess": "Show Less",
+    "previous": "Previous",
+    "next": "Next",
+    "cloudComputing": {
+      "title": "Cloud Computing",
+      "heading": "Cloud Computing Solutions Provider",
+      "description": "Our wide ranging experience in cloud computing technology enables us to craft all-inclusive cloud solutions bespoke to you business demand.Prodevans can help you enable a faster, simpler path to cloud that delivers solutions with lower TCO along with the much needed flexibility to adapt your cloud infrastructure to the future. A number of corporate and government entities have placed their trust is in us for addressing a variety to application and infrastructure requirements such as CRM, database, compute and data storage. Leverage our cloud computing services to optimise resource utilization, secure your data & content while enabling access from any web-connected device.Prodevans comprehensive Cloud computing solutions is helping companies of all sizes and across industry segments to harness the power of Cloud Computing.",
+      "cloudPortfolio": {
+        "title": "Our Cloud Management Portfolio includes",
+        "server": {
+          "title": "Delivering Self-Service IT"
+        },
+        "service": {
+          "title": "Abstracting Multiple Clouds"
+        },
+        "cloudNetworking": {
+          "title": "Providing Governance & Controls"
+        },
+        "networking": {
+          "title": "Automating Lifecycle Management"
+        }
+      },
+      "features": {
+        "title": "Features Of Our Services",
+        "advisory": {
+          "title": "Cloud Advisory Services",
+          "description": "Through survey workshops and bench marking we identify which workloads are suitable for migration to the cloud.then,we recommend the most suitable cloud model private, public or hybrid and develop a road map with detailed next steps"
+        },
+        "enablement": {
+          "title": "Cloud Enablement Services",
+          "description": "To ensure the suitability of cloud for your organisation,we will implement a proof of concept to demonstrate functionality and overall return on investment(ROI)"
+        },
+        "implementation": {
+          "title": "Cloud Implementation Services",
+          "description": "For each workload,we will install, migrate, configure, integrate and administer the application in the cloud."
+        },
+        "managed": {
+          "title": "Cloud Managed Services",
+          "description": "We provide ongoing support, administration and optimisation of your cloud deployment to maximise application performance and minimise cost"
+        }
+      }
+    },
+    "applicationModernization": {
+      "title": "Application Modernization",
+      "description": "To reduce costs and improve the RoI, Organizations all over the world are adopting cloud technologies. They are also moving legacy applications onto containers.But how and where do organizations begin this journey into Container adoption? There is a severe shortage of skills in this area. Kubernetes and docker are still evolving. Many of the development teams do not have the skill base to use them effectively. There is a steep learning curve for organizations - to to cut through this landscape to take applications to production and thereafter, to maintain them successfully.We at Prodevans, not only bring the expertise - built on years of tinkering with Open Source technologies - but also the intent to make you equipped so that you can call this journey your own",
+      "transformationServices": {
+        "title": "Prodevans Application Transformation Services",
+        "delivery": {
+          "title": "Accelerated Application Delivery",
+          "description": "Speed the delivery of existing and new applications from developers to the user by reducing manual release processes and automating the integration, testing, and deployment of new application code."
+        },
+        "optimize": {
+          "title": "Optimize Existing Applications",
+          "description": "Speed the delivery of existing and new applications from developers to the user by reducing manual release processes and automating the integration, testing, and deployment of new application code."
+        },
+        "cloud": {
+          "title": "Cloud-Native Application",
+          "description": "Develop and deliver net-new cloud-native applications faster with application services, microservices, containers, APIs by increasing developer productivity and automating application packaging and delivery."
+        }
+      },
+      "containerProgram": {
+        "title": "Prodevans Container Adoption Program",
+        "identify": {
+          "number": "1.",
+          "title": "Identify an application"
+        },
+        "select": {
+          "number": "2.",
+          "title": "Select a core team"
+        },
+        "impart": {
+          "number": "3.",
+          "title": "Impart best practices"
+        },
+        "prepare": {
+          "number": "4.",
+          "title": "Prepare the team for scale and repeatable process"
+        },
+        "increase": {
+          "number": "5.",
+          "title": "Increase application footprint"
+        },
+        "adopt": {
+          "number": "6.",
+          "title": "Adoption by Leadership Informed Strategy"
+        },
+        "process": {
+          "number": "7.",
+          "title": "Culture, Technology & Process change permeated Sustain Digital Leadership"
+        },
+        "scale": {
+          "number": "8.",
+          "title": "Scale Repeatable Process"
+        },
+        "footprint": {
+          "number": "9.",
+          "title": "Increase application footprint"
+        }
+      }
+    },
+    "degreeMonitoring": {
+      "title": "360 Degrees Monitoring",
+      "description": "Our wide ranging experience in cloud computing technology enables us to craft all-inclusive cloud solutions bespoke to you business demand.Prodevans can help you enable a faster, simpler path to cloud that delivers solutions with lower TCO along with the much needed flexibility to adapt your cloud infrastructure to the future. A number of corporate and government entities have placed their trust is in us for addressing a variety to application and infrastructure requirements such as CRM, database, compute and data storage. Leverage our cloud computing services to optimise resource utilization, secure your data & content while enabling access from any web-connected device.Prodevans comprehensive Cloud computing solutions is helping companies of all sizes and across industry segments to harness the power of Cloud Computing.",
+      "monitoringNeeds": {
+        "title": "Meeting All Your Monitoring Needs!",
+        "server": {
+          "number": "1.",
+          "title": "Server Monitoring",
+          "description": "Ensure optimal performance of servers running on any OS.Track performance issues by granular level analysis and tracking of individual processes & services running on each server. Server-specific overviews for key parameters like CPU Memory Disk & HD Utilization Server Health"
+        },
+        "application": {
+          "number": "2.",
+          "title": "Application Monitoring",
+          "description": "Monitor individual applications with respective application specific important parameters. Enhanced End-User experience with direct access to pages and views for specific applications that's being monitored. Providing support"
+        },
+        "database": {
+          "number": "3.",
+          "title": "Database Monitoring",
+          "description": "Direct view of each database element performance and monitor instances on both virtual and physical servers. Light-weight and agent less technique to optimize performance with response-time and transaction based analysis Instant detection of database outages, failures, and table corruption predictive assay of storage requirements and index performance."
+        },
+        "virtualization": {
+          "number": "4.",
+          "title": "Virtualization Monitoring",
+          "description": "Manage hosts, guests, workloads with automatic discovery pools, hosts, host CPUs. Monitor key parameters of host like CPU CoresMemory, VMs running, etc and VM key parameters like CPU, Memory and Disk Usage. Tracing of VMs across host servers. Supports VMware ESX/ESXi, Microsoft HyperV, Citrix XenServer and Linux KVM."
+        }
+      }
+    },
+    "identityAccess": {
+      "title": "Identity and Access Management",
+      "description": "Prodevans customer experience fuels better engagement and drives revenue and loyalty. It is, therefore, essential for your CIAM to deliver convenience, hyper-personalization, and security tightly coupled to revamp your digital customer experience.Create a homogenous, single view of your consumer from across disparate user stores within your enterprise and offer consistent, multi-channel personalization with risk-score backed, adaptive multi-factor authentication.Deployed across cloud, on-premises, or hybrid IT environments, future-proof your enterprise by boosting the agility and scalability of its consumer identity access management capabilities with Prodevans CIAM.",
+      "solutionStack": {
+        "title": "Our Solutions Stack",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut",
+        "identity": {
+          "title": "Prodevans Digital Identity",
+          "description": "Prodevans customer experience fuels better engagement and drives revenue and loyalty. It is, therefore, essential for your CIAM to deliver convenience, hyper-personalization, and security tightly coupled to revamp your digital customer experience. With Unotech's CIAM solution, allow your consumers to enjoy seamless yet highly secure experiences as they conveniently access your revenue-generating digital products and services. Ensure fully encrypted customer profile and consent-managed data aggregation for privacy-concerned and security-aware consumers to earn their trust and loyalty."
+        },
+        "signOn": {
+          "title": "Single Sign-On",
+          "description": "Enable one-click consumer access to all your apps and enterprise assets in a highly secured environment - from any location and any device. Leverage secure single sign-on (SSO) to provide seamless access to your modern applications through OIDC, SAML and CAS enabled offerings, and your legacy applications through support for Custom API-based token exchange SSO."
+        },
+        "consentManagement": {
+          "title": "Consent Management",
+          "description": "Regulatory requirements, such as GDPR, make it pertinent for enterprises to introduce consent management platform to collect and process consent of consumers for specific data-processing purposes, like marketing, analysis or health. Ensure privacy of your consumers by obtaining their consent before collecting and processing their personal data. Unotech's Consent Management module helps define your consent-obtaining process and its association with processing purpose or activities, while ensuring apt mechanisms to store, record, process and disseminate such data for Prodevans and secured user experience."
+        },
+        "authentication": {
+          "title": "Multi-Factor Authentication",
+          "description": "Prevent data breaches by supporting a variety of MFA mechanisms to enforce stronger security and better authentication of your consumers. You can select from a range of options to conduct MFA with OTP on Email or SMS, Secret Challenges/Questions, Time-based OTP on third-party authenticators or on Unotech’s Authenticator that supports Push Notifications and TOTP. Help redefine the user experience by enabling your consumers to go securely password-less to digitally access enterprise data, services, and assets."
+        },
+        "integration": {
+          "title": "B2B Integration",
+          "description": "Our CIAM solution allows businesses to easily integrate data among various enterprise directories or identity providers. This, in turn, simplifies end-to-end management of Consumer Identity Lifecycle and helps to focus more on adding value to the consumers, protect against risks, while managing privacy concerns comprehensively."
+        }
+      }
+    },
+    "automation": {
+      "title": "Automation",
+      "description": "Automation is minimizing the human assistance in a process or procedure. It enables the organization to automate the process by analyzing and recording data from the current application. It transforms the organization from a manual process to a fast, accurate and reliable automation process.This “Cloud Migration” often raises questions such as “What are the ways to manage network assets in this changing landscape?” The emphasize in automation and cost control. Notwithstanding this, these issues remain unanswered when it comes to realistic implementations and are very frequently ignored. Coming from a company that was born and bred in Cloud, Automation Solutions of Prodevans helps enterprises harness Cloud in a secure, compliant, automated and agile ecosystem.",
+      "networkManage": {
+        "title": "What are the ways to manage network assets in this changing landscape?",
+        "description": "The emphasize in automation and cost control. Notwithstanding this, these issues remain unanswered when it comes to realistic implementations and are very frequently ignored. Coming from a company that was born and bred in Cloud, Automation Solutions of Prodevans helps enterprises harness Cloud in a secure, compliant, automated and agile ecosystem."
+      },
+      "automationHighlights": {
+        "title": "Highlights of the Automation Platform",
+        "automation": {
+          "title": "Automation using ML",
+          "description": "Combining Machine Learning and Rule Engine, an Automation that can predict, classify, heal and run. Customizable service that can be implemented on Customer AWS account for added security End-to-end life cycle control across all regions and any number of AWS accounts at any scale."
+        },
+        "industry": {
+          "title": "Industry Standard Practices",
+          "description": "Reduced network operations by addressing holes and automating repetitive tasks. Cloud management through industry standard best practices in AWS infrastructure maintenance. Continuous safety and tracking through intelligent automated / semi-automated daemons. Compliance and governance through industry-specific standards and technology policies"
+        }
+      },
+      "ansibleHighlights": {
+        "title": "Ansible Network Automation"
+      },
+      "networkAutomation": {
+        "title": "PRODEVANS Automation Transformation Framework",
+        "description": "Ansible's easy automation platform ensures that previously independent network administrators will now speak the same language of automation as the rest of the IT enterprise, expanding Ansible's functionality to include native support for legacy and open network infrastructure tools. Network tools and applications can now be included in the overall automation plan of the enterprise for a holistic approach to network workload management.",
+        "vector": "vector",
+        "layerName": {
+          "esm": "ESM Layer",
+          "orchestration": "Orchestration Layer",
+          "automation": "Automation Layer",
+          "management": "Management Layer",
+          "device": "Device Layer"
+        },
+        "service": {
+          "domain": "Enterprise Network Service Domain",
+          "api": "API",
+          "portal": "Portal",
+          "script": "Scripts & Templates",
+          "source": "Source Control",
+          "client": "HTML Thick Client",
+          "deviceManager": "Device Manager",
+          "cu": "CU",
+          "device": "Device"
+        },
+        "tool": {
+          "enterprise": "Enterprise Service Management",
+          "orchestration": "Orchestration Tool",
+          "provisioning": "Provisioning Tool",
+          "assurance": "Assurance Tool",
+          "monitoring": "Monitoring Tool",
+          "deviceManager": "Device Manager",
+          "device": "Device"
+        },
+        "layerNumber": {
+          "four": "Layer 4-5",
+          "three": "Layer 3-4",
+          "two": "Layer 2-3",
+          "one": "Layer 1-2",
+          "zero": "Layer 0-1"
+        }
+      }
+    },
+    "devopsTools": {
+      "title": "Devops Tools And Support",
+      "description": "Automating end to end delivery pipeline across cloud platforms for faster time to market, increased efficiency and reduced cost . Our DevOps leverages collaboration, monitoring, tool-chain pipelines, automation and Cloud adoption. With our DevOps as a service offering, we ensure rapid on-boarding of applications by automating end-to-end delivery pipeline and facilitate continuous integration and development across leading cloud platforms.",
+      "automation": {
+        "title": "DevOps Automation",
+        "description": "After auditing your existing setup and drawing the ideal workflows, we set-up & automate your continuous delivery pipeline. While automating the pipeline, we prevent risky deployment and increase productivity using our robust ecosystem of open source & licensed tools."
+      },
+      "management": {
+        "title": "DevOps Management",
+        "description": "Apart from automating your processes, we help you to manage the health of your continuous delivery pipeline. We take care of release management, continuous deployment, replica environment, new server setup, change management and performance optimization on an ongoing basis."
+      }
+    },
+    "infrastructure": {
+      "title": "Infrastructure",
+      "description": "We provide Infrastructure which consists of software, hardware, network resources and services required for the management, operation and existence of an enterprise IT environment. High availability, responsiveness and reliability of the IT infrastructure are important to meet the dynamic needs of the business.We manage your infrastructure using enterprise automation, infrastructure automation, application automation, security and compliance automation. We connect infrastructure, services and suppliers to have an integrated solution across all the operations. We enable the end user to scale up or down the resources. We uses Cloud orchestration technologies like openstack, cloudforms and openshift.",
+      "information": {
+        "openStack": {
+          "number": "1",
+          "title": "Red Hat and RDO OpenStack",
+          "description": "Deployed Red Hat and RDO OpenStack in Malaysia, Indonesia, Vietnam and India Telecom with deployments as complex as 32 computes, 10 CEPH storage with the deployments were orchestrated included features like SRIOV, PCI Pass-through, DPDK and NUMA."
+        },
+        "orchestrator": {
+          "number": "2",
+          "title": "Cloud Forms and VMware VRealize Orchestrator",
+          "description": "Self Service Catalogue with multi stack options, Chargeback/Showback, Compliance/ Remediation and Monitoring - ServiceNow ITSM integration, infoblox IPAM integration"
+        },
+        "openshift": {
+          "number": "3",
+          "title": "Red Hat Openshift",
+          "description": "Deployed Red Hat OpenShift and Kubernetes in Thailand, Malaysia, Australian Banks, University in Singapore and India Banks and Telecoms with deployments as complex as 100 worker nodes. Deployments were orchestrated using Ansible."
+        }
+      }
+    }
+  },
+  "ContactUsPage": {
+    "title": "Contact Prodevans - Reach Out for Tech Excellence",
+    "description": "Contact us page provides website visitors with ways to get in touch with the business.",
+    "header": "Contact Us",
+    "contactUsForm": {
+      "formTitle": "Get In Touch",
+      "formDescription": "Send us a message or reach us  by phone during our regular business hours.",
+      "button": "Send Message",
+      "altName": "icons",
+      "placeholders": {
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Enter your email",
+        "mobile": "Enter your mobile number",
+        "message": "Enter you message"
+      },
+      "formError": {
+        "requiredField": {
+          "firstName": "Fist Name is required",
+          "lastName": "Last Name is required",
+          "email": "Email is required",
+          "mobile": "Mobile number is required",
+          "message": "Message is required"
+        },
+        "validateFrom": {
+          "firstName": "First Name cannot contain numbers",
+          "lastName": "Last Name cannot contain numbers",
+          "email": "Invalid email address",
+          "mobile": "Mobile should be valid number"
+        }
+      },
+      "loaderMessage": {
+        "createUser": "Please wait.. Creating user with email: ",
+        "searchEmail": "Please wait.. Checking if user exists or not",
+        "createTicket": "Please wait.. Generating ticket"
+      },
+      "toastMessage": {
+        "serverError": "We could not able to create ticket. Please try again later",
+        "createTicket": "We have recieved your message. Here is the ticket No for reference : "
+      }
+    },
+    "location": "Location",
+    "address": "OUR ADDRESS",
+    "contacts": "OUR CONTACTS",
+    "contactEmail": "contact@prodevans.com",
+    "contactPhone": "+91 97044 56015",
+    "bangaloreAddress": {
+      "address1": "Building # 389, Second Floor, 8th Main",
+      "address2": "7th Cross, MICO Layout, BTM 2nd stage",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560076"
+    },
+    "hyderabadAddress": {
+      "address1": "422, Manjeera Majestic Commercial",
+      "address2": " JNTU Rd, Kukatpally,",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "postalCode": "500072"
+    },
+    "mumbaiAddress": {
+      "address1": "308- B WING, Town Centre 2,Andheri -",
+      "address2": "Kurla Rd Marol, Andheri East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "postalCode": "400059"
+    },
+    "delhiAddress": {
+      "address1": "208B, 2nd Floor, Tower-A, iThum,",
+      "address2": "Sector-62",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "postalCode": "201301"
+    },
+    "singaporeAddress": {
+      "address1": "167 Jalan Bukit Merah #05-12,",
+      "address2": "Connection One,",
+      "city": "Singapore",
+      "state": "Singapore",
+      "postalCode": "150167"
+    },
+    "uaeAddress": {
+      "address1": "CWEP0049 Compass Building, Al Shohada Road,",
+      "address2": "AL Hamra Industrial Zone-FZ,",
+      "city": "Ras Al Khaimah",
+      "state": "UnitedArab Emirate",
+      "postalCode": "150167"
+    }
+  },
+  "PartnersPage": {
+    "title": "Prodevans Partnerships - Collaborating for Success",
+    "description": "Learn about our strategic partnerships that empower us to deliver cutting-edge technology solutions.",
+    "bannerTitle": "OUR PARTNERS",
+    "subtitle": "We are providing wide range of solutions to our customers.",
+    "bannerContent": "With advent of new technology solutions, Prodevans believes in collaborative efforts with leaders to provide efficient and latest solutions to our customers.",
+    "handshakeAlt": "Handshake",
+    "header": "Prodevans Partnership Journey with Red Hat",
+    "content": "Red Hat offers an extensive range of open-source solutions, including Red Hat Enterprise Linux, Red Hat OpenShift, and Red Hat Ansible, among others. These solutions enable Prodevans to provide their clients with enterprise-level solutions that are cost-effective and scalable. The partnership has allowed Prodevans to leverage Red Hat 's expertise in open-source solutions and deliver robust and secure solutions to their clients.",
+    "partnerHeader": "Our Partners",
+    "altNmae": "Partner Logo",
+    "logo": "Logo",
+    "bannerLogo": "Footer Banner",
+    "partners": {
+      "atlassian": {
+        "partner": "Atlassian"
+      },
+      "elastic": {
+        "partner": "Elastic"
+      },
+      "gitlab": {
+        "partner": "GitLab"
+      },
+      "hashiCorp": {
+        "partner": "HashiCorp"
+      },
+      "jfrog": {
+        "partner": "JFrog"
+      },
+      "messageBird": {
+        "partner": "Message Bird"
+      },
+      "minio": {
+        "partner": "Minio"
+      },
+      "redHat": {
+        "partner": "Red Hat"
+      },
+      "redis": {
+        "partner": "Redis"
+      },
+      "vmware": {
+        "partner": "VMware"
+      }
+    }
+  },
+  "PartnerDetailsPage": {
+    "title": "Prodevans Partnerships - Collaborating for Success",
+    "description": "Learn about our strategic partnerships that empower us to deliver cutting-edge technology solutions.",
+    "contactUs": "Contact Us",
+    "getInTouch": "Get in touch with us for more information.",
+    "bannerContent": "There is a better way to grow with ",
+    "authorizedPartner": "We are an Authorized Partner",
+    "redHatBusinessParetner": "We are Red Hat Advanced Business Partner",
+    "back": "Back",
+    "altName": "Partner icon",
+    "altFooterName": "Partner footer icon",
+    "partners": {
+      "atlassian": {
+        "partner": "Atlassian",
+        "contents": [
+          "<strong>Atlassian</strong> is a software company that provides a range of collaboration and productivity tools for teams. Their products include <strong>Jira</strong> for project management, Confluence for team collaboration and document management, <strong>Trello</strong> for task management and organisation, and <strong>Bitbucket</strong> for code management and version control.",
+          "Additionally, they offer a suite of developer tools, such as <strong>Bamboo</strong> for continuous integration and deployment, and <strong>Fisheye</strong> for code review. <strong>Atlassian's</strong> tools are designed to help teams work together more efficiently and effectively.",
+          "Prodevans has been an Atlassian partner since its starting days when we got the opportunity to work with one of our enterprise customers to implement Atlassian stack. Prodevans team is involved with most of its customers to maintain their Atlassian stack while upgrading/updating it, applying security patches, Migration of JIRA and confluence from Onprem to cloud and migrating the underlying databases. We also have expertise in training our customers in Agile methodology using Atlassian tools."
+        ]
+      },
+      "elastic": {
+        "partner": "Elastic",
+        "contents": [
+          "<strong>Elastic also referred as ELK stack</strong> is most widely used at enterprise level for management of application search, logging and analytics, performance monitoring, analytics and visualization purposes in combination with <strong>Logstash</strong> and <strong>Kibana</strong>. With this distributed system in place, the response time for high volume of data is seamless. With integration with all the top cloud providers of the market, this is an ideal choice for any enterprise to facilitate a full text-search feature. It simplifies the data ingest, visualization and reporting process.",
+          "<strong> Prodevans </strong> has been a partner with <strong>ELK</strong> with long term and experienced practitioners as part of its team who have integrated the feature into various cloud ecosystem of various customers. Developers being technically agnostic, they exploit the positive aspects of ELK to its full potential to achieve and deliver a highly responsive applications. We make sure that our experience and expertise is shared with wider audience for training and certification purposes."
+        ]
+      },
+      "gitlab": {
+        "partner": "GitLab",
+        "contents": [
+          "<strong>GitLab</strong> primarily started as a <strong>VCS</strong> and <strong>code repository</strong>, now has grown and it provides all of the essential DevOps tools in one platform, fundamentally changing the way Development, Security, and Ops teams collaborate and build software. GitLab helps teams reduce cycle time from weeks to minutes, reduce development costs, accelerate time to market, and deliver more secure and compliant applications.",
+          "<strong>Prodevans</strong> being a <strong>key partner</strong> of Gitlab, proposes, solutionizes and implements Gitlab across many BFSIs in India and APAC. Prodevans also trains its customers to adapt agile development practices using Gitlab. We are very experienced in Gitlab upgradation, migration and Gitops and Teamops implementation using Gitlab. Prodevans also sets up the <strong>DevOps and GitOps</strong> for many of its customers and managing the same stack."
+        ]
+      },
+      "hashiCorp": {
+        "partner": "HashiCorp",
+        "contents": [
+          "<strong>HashiCorp</strong> provides a suite of open-source tools intended to support the development and deployment of large-scale service-oriented software installations. Each tool is aimed at specific stages in the life cycle of a software application, with a <strong>focus on automation</strong>. Many have a plugin-oriented architecture in order to provide integration with third-party technologies and services. The HashiCorp product suite includes <strong>Vagrant, Vault, Serf,Consul, Packer, Nomad, Waypoint and Sentinel</strong ."
+        ]
+      },
+      "jfrog": {
+        "partner": "JFrog",
+        "contents": [
+          "<strong>JFrog Artifactory</strong> is a global <strong>DevOps solution</strong> that automates and manages binaries and artifacts throughout the application delivery process, increasing productivity across your development ecosystem. JFrog Artifactory supports build integration whether you are running builds on one of today's popular CI servers, on cloud-based CI servers, or standalone without a CI server. It provides flexibility by supporting over 25 software build packages, <strong>all major CI/CD platforms</strong>, and DevOps tools you already use.",
+          "<strong>Artifactory</strong> is a <strong>Kubernetes-ready</strong> platform that supports containers, Docker, Helm Charts, and is your Kubernetes and Docker registry. It also includes full <strong>CLI and REST APIs</strong> that are customizable to your ecosystem.",
+          "It is obvious that a <strong>Kubernetes</strong> workload will not be efficient without an Artifactory. <strong>Prodevans</strong> being a strategic partner to JFrog, has designed complex Devops pipelines for its customers to facilitate the agile development of applications and automation. We have set up private <strong>Artifactories, Maven repositories,</strong> Secured JFrog with reverse proxies and<strong> SSL certificates</strong>, managed storage and databases and integrated with many other Devops tools such as <strong>Jenkins, Teamcity, Udeploy, Git and Kubernete</strong>."
+        ]
+      },
+      "messageBird": {
+        "partner": "Message Bird",
+        "contents": [
+          "Being an Omnichannel communication platform, <strong>MessageBird</strong> has a footprint in areas related to Marketing, Sales, Customer Support and Account Security. <strong>Trusted with over more than 25,000 clients</strong>. MessageBird helps manage marketing campaigns as well as digital marketing objectives. With integration capabilities of social media as well as primitive communications channels such as SMS, helps generate a wholistic feedback mechanism.",
+          "<strong>Prodevans</strong> being a partner helps implement solutions with goals to be achieved such as Improved lead generation, reduce drop-offs of leads during a marketing campaign, managing marketing funnel for turning prospect to a customer life cycle. We offer a perfect mix between our expertise of various domains and our experience with MessageBird to achieve a goal oriented outcomes."
+        ]
+      },
+      "minio": {
+        "partner": "Minio",
+        "contents": [
+          "<strong>MinIO</strong> is a High Performance Object Storage released under <strong>GNU Affero General Public License v3.0</strong>. It is API compatible with Amazon S3 cloud storage service. It can handle unstructured data such as photos, videos, log files, backups, and container images with the maximum supported object size of 5TB. Due to its superior performance, it has been a market leader in the Object Storage domain since some time and the favourite choice of <strong>BFSI</strong> Industry.",
+          "<strong>Prodevans</strong> has been the premium partner of MinIO. We have designed and implemented MinIO Object Storage in Large Banks. Prodevans has proven its capability in deploying MinIO in a complete Air Gapped environment for one of its largest bank clients. We have implemented MinIO bucket replication, site to site replication, MinIO deployment across multiple sites and environments, integrated with containerized workload. We offer design, deployment and training of MinIO including collaboration with the MinIO Team."
+        ]
+      },
+      "redHat": {
+        "partner": "Red Hat",
+        "contents": [
+          "We chose <strong>Red Hat</strong> because… Red Hat is a world leader on enterprise open source products in cloud native application development, automation and even ranging to hybrid cloud infrastructure. Like Red Hat, We Prodevans believe the future would be Open hybrid cloud for architecting, developing, and operating a hybrid mix of applications, delivering a truly flexible cloud experience with the speed, stability, and scale required for digital business transformation.",
+          "Prodevans has multi fold relationships with Red Hat such as<strong> Professional Services Partner, Advanced Training Partner, Reseller Partner, Certified Cloud Service Provider (CCSP)</strong>. We are developing as well as consulting on existing open-source solutions for our clients with our team of Certified Red Hat professionals.",
+          "Prodevans Modernize most of our customers' Business With Digital Transformation using Open Source and Enterprise Open Source Products. We are a fast growing IT consulting company in India delivering global projects. We promote adoption of Red Hat technologies not limited to solutions but help in early stage adoption by conducting thousands of Training Certifications."
+        ]
+      },
+      "redis": {
+        "partner": "Redis",
+        "contents": [
+          "<strong>Redis</strong> is an open-source, in-memory data store used by unparallel clients for their solutions to augmented as either a database, streaming engine, caching or a message broker. The applications of Redis is not limited to any one cloud but with its capability has partnership and integration capabilities with all major cloud providers namely<strong> Microsoft Azure, Amazon Web Services or Google Cloud Platform</strong>.",
+          "Prodevans has its expertise with <strong>Redis</strong> and being a partner we have implemented solutions right from as using Redis as a centralized cache for your enterprise solutions but also its use cases as a caching or streaming database service as per business use cases of our customers. Not limited to where we have also helped our customers to tap its Enterprise level capabilities with applications in tandem with either a <strong>virtual machine, Kubernetes or a hybrid cloud</strong>. Our team of developers are always evolving with use cases of Redis to deliver best possible outcomes with respect to costs, performance and scalable solutions."
+        ]
+      },
+      "vmware": {
+        "partner": "VMware",
+        "contents": [
+          "In the space of virtualization and cloud computing, <strong>VMWare</strong> is a brand in itself. Marking its presence in the domains of Cloud and Edge Infrastructure to achieve multi-cloud architecture, Security & Networking, Anywhere Workspace or be it App Development with likes of <strong>Cloud Native Applications</strong> or <strong>Tanzu Data platforms</sttrong, the presence of VMWare is dominant in cloud computing workspace.",
+          "Prodevens has been a key partner with VMWare in the space of development services as well as helping professionals or young minds by training them on VMware products and achieve certifications. We have evolved in space of hybrid cloud applications such migration to developing a complete ecosystem. We have shown are expertise in areas such as developing and hosting applications cloud native applications to developing solutions around Tanzu application platform and data services for a wide range of customers. Kubernetes related development being one of our area of expertise we have helped our customers build as well as modernize their existing solutions."
+        ]
+      }
+    },
+    "form": {
+      "header": "Tell Us About Your Challenges",
+      "privacyPolicy": "I have read and agreed to <a class='privacy_policy' href='/support/privacyPolicy' target='_blank'><strong>Privacy Policy</strong></a>",
+      "button": "Submit",
+      "altName": "Form Icon",
+      "formError": {
+        "requiredField": {
+          "firstName": "Fist Name is required",
+          "lastName": "Last Name is required",
+          "email": "Email is required",
+          "mobile": "Mobile number is required",
+          "rememberMe": "Please check the privacy policy checkbox",
+          "overview": "Overview is required",
+          "description": "description is required"
+        },
+        "validateFrom": {
+          "firstName": "First Name cannot contain numbers",
+          "lastName": "Last Name cannot contain numbers",
+          "email": "Invalid email address",
+          "mobile": "Mobile should be valid number"
+        }
+      },
+      "placeholders": {
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Enter your email address",
+        "mobile": "Enter your mobile number",
+        "overview": "Overview of issue/query/request",
+        "description": "Describe your issue/query/request"
+      },
+      "loaderMessage": {
+        "createUser": "Please wait.. Creating user with email: ",
+        "searchEmail": "Please wait.. Checking if user exists or not",
+        "createTicket": "Please wait.. Generating ticket"
+      },
+      "toastMessage": {
+        "serverError": "We could not able to create ticket. Please try again later",
+        "createTicket": "Successfuly able to create ticket. Ticket No: "
+      }
+    }
+  },
+  "LifeAtPdPage": {
+    "title": "Life at Prodevans - Join Our Tech Family",
+    "description": "Explore the vibrant culture and career opportunities at Prodevans. Join us in shaping the future of tech.",
+    "header": "LIFE AT PRODEVANS",
+    "subHeader": "We foster a culture of innovation and continuous learning and just recognition",
+    "subHeaderContent": "Our dedicated teams are at the forefront of building cutting-edge cloud and container platforms, working together to solve complex challenges and deliver exceptional solutions. With a strong emphasis on work-life balance and professional growth, Prodevans values its employees' well-being and provides ample opportunities for career development and advancement in the dynamic realm of cloud and DevSecOps.90% of our staff are certified on more than two technologies. 80% add a certification each year.Examinations are still a norm. No we are not a school, we party and you are welcome.",
+    "rewards": {
+      "header": "Reward & Recognition",
+      "subHeader": "We value and appreciate the sincere efforts and dedication put in by our people. At Prodevans, good commitment and performance are always recognised and rewarded."
+    },
+    "insurance": {
+      "header": "Health Insurance",
+      "subHeader": "Our health insurance policy covers employees, their spouses and children.During COVID-19 we helped all our employees to reimburse all expenses including tests as well as vaccinations."
+    },
+    "wellness": {
+      "header": "Wellness Program",
+      "subHeader": "We nurture wellness programs that help our employees cope with anxiety, physical & mental stress. Some of these include offering flexible work schedules, healthy food offerings, maternity & paternity leave etc."
+    },
+    "hybrid": {
+      "header": "Hybrid WorkModel",
+      "subHeader": "Our employees are free to work from wherever they want let it be office, home or anywhere else on the planet. Even work hours are also flexible at Prodevans."
+    },
+    "leadership": {
+      "header": "Thought Leadership",
+      "subHeader": "At Prodevans we create thought leaders. We have an active team open source contributors, blog writers etc. Whatever your interest lies on, there is team for you here"
+    },
+    "benefits": "Benefits of Prodevans One",
+    "benefits_subheader": "The technology challenges of tomorrow and beyond cannot be solved by a single vendor alone. Immerse your business in a partner-first program, ready to meet you where you need it most.",
+    "gallery": "Gallery of Prodevans",
+    "outing": {
+      "galleryTabs": "Company Outing"
+    },
+    "friday": {
+      "galleryTabs": " Fun Friday"
+    },
+    "session": {
+      "galleryTabs": "Knowledge Sharing Session"
+    }
+  },
+  "AboutUsPage": {
+    "title": "About Prodevans - Our Tech Journey",
+    "description": "Get to know Prodevans, our mission, and our commitment to revolutionising technology solutions.",
+    "header": "ABOUT US",
+    "subHeader": "The best of Cloud Native Application and Platform. Any cloud, Any container, Any DevSecOps, Any Integration, Any Infra Automation",
+    "content": "We are an open source solution provider focusing on Cloud Native App Development, Blockchain, Cloud, Infrastructure, Automation DevSecOps, AI & ML. We have been driving digitalisation and cloud adoption programmes in India and Asia Pacific region for our customers driven by open-source technologies backed by enterprise grade managed service and support, customised to our customer’s requirement.",
+    "value": "Our Values",
+    "valueContent": "Prodevans will help transform IT Organizations with on-demand, scalable, reliable Infra based state-of-the-art cloud & container technologies. We have an excellent track record in implementing solutions across India & ASEAN regions. As one of the pioneers in implementing Red Hat Cloud Solutions across the region, we bring a technology know-how that is second to none",
+    "management": "Management Profiles",
+    "leaderContent": "Technology Transformation Leader with more than 19 years' experience in areas of Technology Infrastructure, Development, QA, & Support. Drove technology transformation programs across lines of business. Passionate about delivering value to businesses through Cloud Technologies. Transformed legacy applications for migration to Cloud Platforms and ongoing Management across industries (BFSI, Retail, Government) in India & APAC. Provided top-of-the-line Consulting Services to prioritise applications, defining the path to Production and documenting business impact and ROI.",
+    "altName": "Management",
+    "managements": {
+      "santha": {
+        "name": "S Santha Kumar",
+        "designation": "Chief Financial Officer (CFO)"
+      },
+      "deepak": {
+        "name": "Deepak Mishra",
+        "designation": "Founder and CEO"
+      },
+      "dilip": {
+        "name": "Dilip Hublikar",
+        "designation": "Head of Sales and Business Development"
+      },
+      "arvind": {
+        "name": "Arvind Kumar Sinha",
+        "designation": "Chief Operating & Administration Officer (COO/CAO)"
+      },
+      "gagan": {
+        "name": "Gagan Pattanayak",
+        "designation": "Director, CSO & CEO (Asia Pacific)"
+      },
+      "sushma": {
+        "name": "Sushma Shriram",
+        "designation": "HR Manager and Business Development"
+      },
+      "sitikantha": {
+        "name": "Sitikantha Sarangi",
+        "designation": "Director, CTO(India)"
+      },
+      "sowmya": {
+        "name": "Sowmyashree HM",
+        "designation": "Sr Manager Sales"
+      },
+      "nitya": {
+        "name": "Nityananda Panda",
+        "designation": "VP-Sales Enterprise Training Channels Sales (South)"
+      },
+      "vijay": {
+        "name": "Vijay Ramesh Agarwal",
+        "designation": "Director, Head Service Delivery (India)"
+      },
+      "sarma": {
+        "name": "Pannala Subrahmanya Sarma",
+        "designation": "Head - Project Delivery"
+      }
+    },
+    "testimonials": {
+      "mobileApp": {
+        "testimonialHeader": "Customer is not Always right, Neither are we",
+        "testimonialContent": "We are commitment to transparency and fairness. We believe in the value of constructive feedback and recognise that we, as a company, can make mistakes. This value encourages open dialogue, fosters accountability, and reinforces our dedication to continuous improvement. We strive to provide exceptional service while embracing the reality that perfection is a shared journey. "
+      },
+      "reward": {
+        "testimonialHeader": "DevOps is when Devs can do Ops and Ops can dev, Like most of our guys can",
+        "testimonialContent": "At Prodevans, we encourage collaboration and skill diversification, allowing developers to understand and contribute to operations, and operations professionals to engage in development activities. This approach not only enhances efficiency but also fosters a holistic perspective on our products and services."
+      },
+      "setting": {
+        "testimonialHeader": "You must deliver value And if you can't say so",
+        "testimonialContent": "We are committed to transparency, accountability, and client satisfaction. We prioritize delivering tangible value to our clients in every interaction. If, for any reason, we cannot meet their expectations, we communicate honestly and work collaboratively to find solutions."
+      }
+    }
+  },
+  "EventsPage": {
+    "title": "Events",
+    "description": "Prodevans is a leading technology solution provider specialising in end to end DevOps offerings that streamline and automate IT delivery",
+    "header": "EVENTS",
+    "subHeader": "Explore and make impact on the future",
+    "upComingEvents": {
+      "header": "Upcoming Events",
+      "subHeader": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod",
+      "gitex": {
+        "event": "Gitex Event",
+        "eventDescription": "Prodevans is going to participate in the GITEX (Gulf Information Technology Exhibition), the annual consumer IT trade show where we will be exhibiting its products and services."
+      },
+      "redHat": {
+        "event": "Red Hat Forum",
+        "eventDescription": "Redhat forum is an event where industry experts and developers provide the their expertise on Redhat"
+      },
+      "openSource": {
+        "event": "Open Source",
+        "eventDescription": "Get advice on contributing to open source from the biggest open source contributers from India"
+      }
+    },
+    "allEvents": {
+      "header": "All Events",
+      "subHeader": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "archive": "Archive",
+      "search": "Search Evants",
+      "gitex": {
+        "event": "Gitex Event"
+      },
+      "redHat": {
+        "event": "Red Hat Forum"
+      },
+      "openSource": {
+        "event": "Open Source"
+      },
+      "firesideChat": {
+        "event": "Fireside Chat"
+      }
+    }
+  },
+  "EventDetailsPage": {
+    "title": "Events",
+    "description": "Prodevans is a leading technology solution provider specialising in end to end DevOps offerings that streamline and automate IT delivery",
+    "back": "Back",
+    "events": {
+      "gitex": {
+        "bannerHeader": "Gitex Event",
+        "bannerDateTitle": "DATE :",
+        "bannerTimeTitle": "TIME :",
+        "bannerLocationTitle": "Location :",
+        "eventLocation": " Dubai World Trade Centre, Sheikh Zayed Rd -Trade Centre - Trade Centre 2 - Dubai - UAE",
+        "eventHeader": "What you will Learn",
+        "eventContent": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod",
+        "teamHeader": "Our Speakers",
+        "teamSubHeader": " A Five-day summit of talks, activities, and workshops",
+        "videoContent": "GITEX GLOBAL is here again in the UAE after two years of a long break. It is ready to present the world’s most influential ecosystems advancing business, economy, society, and culture through the sheer power of innovation. Prodevans is an ISO 9001| 27001 | 20000 accredited certified company, a leading technology solution provider specializing in end-to-end DevOps offerings that streamline and automate IT delivery. The Company is ready to grab this fantastic opportunity and mark its position among the tech Giants. Prodevans is a Multinational Company with an office in Dubai and is all prepared to seize the Golden Chance. To encounter an all-new arena of Technology and the Future, avail the passes right now for an unmatched experience.",
+        "galleryHeader": "Our Event Gallery",
+        "team": {
+          "deepak": {
+            "name": "Deepak Mishra",
+            "designation": "Founder and CEO"
+          },
+          "dilip": {
+            "name": "Dilip Hublikar",
+            "designation": "Head of Sales and Business Development"
+          },
+          "sitikantha": {
+            "name": "Sitikantha Sarangi",
+            "designation": "Director, CTO(India)"
+          },
+          "sunny": {
+            "name": "Rampalli Sunny Sudarshan",
+            "designation": "General Manager, Delivery Engineering EMEA"
+          }
+        }
+      }
+    }
+  },
+  "BlogPage": {
+    "title": "Prodevans Blog - Tech Insights & Updates",
+    "description": "Explore our blog for the latest tech trends, insights, and updates from the Prodevans team.",
+    "bannerTitle": "OUR BLOGS",
+    "subtitle": "Dive into our tech-centric articles and stay ahead in the digital world.",
+    "bannerContent": "Welcome to the Prodevans Blog, your gateway to the latest in technology trends, insights, and updates. Our team of experts is dedicated to bringing you valuable information that can help you navigate the ever-evolving world of technology.",
+    "button": "Read More",
+    "sideBarHeader": "All Blogs",
+    "altName": "search",
+    "noResult": "No results found",
+    "placeholder": "Search all Blogs",
+    "blogs": {
+      "keycloak": {
+        "blogHeader": "Replicas of Keycloak ",
+        "blogContent": "When it comes to a modern Single Sign On solution for applications, Keycloak/RedHat SSO leads the way."
+      },
+      "gitex": {
+        "blogHeader": "Gitex",
+        "blogContent": "PRODEVANS in Dubai for GITEX 2022"
+      },
+      "keycloakMigration": {
+        "blogHeader": "Keycloak Database Migration",
+        "blogContent": "Keycloak migration by using MSSQL & POSTGRESQL database integrated with keycloak version 13-16 in Kubernetes deployment"
+      },
+      "kubernetesCluster": {
+        "blogHeader": "Setting Up a Kubernetes Cluster on Virtual machines",
+        "blogContent": "Kubernetes, or K8s, is an open-source system that is used to automate deployment, scaling and management of containerized applications."
+      },
+      "apacheCamel": {
+        "blogHeader": "Apache Camel",
+        "blogContent": "Apache Camel is an open source integration framework that aims to make integrating systems easier."
+      },
+      "openSource": {
+        "blogHeader": "Open Source Service Desk",
+        "blogContent": "Your Open Source Kubernetes Cluster running in Production is Down"
+      },
+      "apacheCamelSpringboot": {
+        "blogHeader": "Apache Camel Spring boot",
+        "blogContent": "Apache Camel Email component"
+      },
+      "ansible": {
+        "blogHeader": "Ansible",
+        "blogContent": "Now that you know what Ansible does in it’s essence, the applications of Ansible are limitless, really."
+      },
+      "kubernetesOperators": {
+        "blogHeader": "Kubernetes Operators Demystified",
+        "blogContent": "Ever since Kubernetes came out and it became popular, things have been changing in terms of the landscape related to containerized application deployment."
+      },
+      "ansibleInfrastructure": {
+        "blogHeader": "Ansible for Infrastructure Management",
+        "blogContent": "The truth is, it doesn’t matter if you are a veteran or a novice in Infrastructure Management, Information Technology or an application developer, you are lazy."
+      }
+    }
+  },
+  "GitexBlogPage": {
+    "title": "",
+    "description": "",
+    "header": " PRODEVANS IN DUBAI ",
+    "subHeader": "For GITEX 2022",
+    "date": "October 10th-14th, 2022",
+    "button": "Go Back",
+    "gitexContent": [
+      "GITEX GLOBAL is again in the UAE after two years of an extended break. It is ready to present the worlds most influential ecosystems advancing business, economy, society and culture through the sheer power of innovation.",
+      "The worlds most significant event in the field of tech and startup promises new dimensions and milestones ranging from the powerful 6G Network system to the unveiling of the Metaverse of the Business ecosystem in a virtual setup. The world may or may not be ready for the craziness, but the technology-driven futuristic brains are prepared to take the world to another level we dont know.",
+      "To encounter an all-new arena of Technology and the Future, avail the passes right now for an unmatched experience."
+    ],
+    "prodevansAchievements": "Prodevans is an ISO 9001| 27001 | 20000 accredited certified company, a leading technology solution provider specializing in end-to-end DevOps offerings that streamline and automate IT delivery. The Company is ready to grab this fantastic opportunity and mark its position among the tech Giants. Prodevans is a Multinational Company with an office setup in Dubai and is all prepared to seize the Golden Chance.",
+    "aboutProdevans": "Prodevans is a trusted service provider to many BFSIs, and We have strategic alliances with Global System Integrators like Intellect Design, HCL Technologies, Dell Technologies, HPE Technologies, Wipro Technologies, etc. Our Products are: - PD Cloudex - iVentura - PD Cloudex SDN - PD Cloudex CMP. Our Services: - Cloud: Build, Operate, Upgrade, Augment - Automation: Infrastructure, Security - DevOps: Build, Manage - Migration: Cloud Assignment, Cloud Native Development, Application Transformation - Training: Cloud, Containers, Automation, Linux Our Capabilities: - Ansible Terraform - API Management Development - OpenStack - Open shift Kubernetes - Open Source Development Infrastructure & Cloud Services: Managed Services - Iaas & Paas, App Development, Automation, Auto-Scaling & Clustering, CI/CD Automation, Containerization, App Modernization. Cloud Management: AZURE, AWS, GCP, IBM, and REDHAT - Architecture Support - 24/7 Monitoring - Data Backup and Restore activities - Operating System Management - Security Groups Management - Network Management - Cloud to Cloud - Cluster, Backup & Restore Prodevans have developed advance niche technical skills on Cloud, DevOps, Kubernetes and software development using Low-Code, No-Code and web technologies PHP, Ruby, Python, Go, C#, NodeJS, and Java microservices. This would help scale our services to enterprise customers and develop an end-to-end digital experience journey for them. We have strategic alliances with Global System Integrators like Intellect Design, HCL Technologies, Dell Technologies, HPE Technologies, Wipro Technologies, etc. We help IT Organizations transform with on-demand, scalable, reliable Infra-based state-of-the-art cloud & container technologies. We have an excellent track record in implementing solutions across India & ASEAN regions. As one of the pioneers in implementing Red Hat Cloud Solutions across the region, we bring technology know-how that is second to none."
+  },
+  "InPressPage": {
+    "title": " Prodevans in the Media - Discover Our Tech Achievements",
+    "description": " Explore Prodevans' featured appearances and achievements in the media and tech industry.",
+    "bannerTitle": "OUR MEDIA",
+    "subtitle": " Recognised and Celebrated: Explore Prodevans' Media Highlights",
+    "bannerContent": "We proudly present our featured appearances, achievements, and recognition in the media and the dynamic world of technology. We believe that our journey is best told through the lens of the media, and we are excited to share these highlights with you.",
+    "button": "Know More",
+    "articles": {
+      "deepakMishra": {
+        "articleHeader": "Interview with Deepak Mishra\n Founder and CEO Prodevans Technologies ",
+        "highLight": "Most popular stories magazine"
+      },
+      "machineLearning": {
+        "articleHeader": "How machine learning is contributing to evolution of online education space",
+        "highLight": "Published on India Today Magazine"
+      },
+      "prodevansInternship": {
+        "articleHeader": "Prodevans technologies launches new internship platform called LEAP to provide opportunities to IT graduates ",
+        "highLight": "Business News This Week Magazine "
+      },
+      "automation": {
+        "articleHeader": "Automation may take our jobs - But AI will create them",
+        "highLight": "Startup City Magazine"
+      }
+    }
+  },
+  "BrochuresPage": {
+    "title": "Prodevans Brochures - Tech Resources",
+    "description": "Access our library of tech brochures and resources to stay informed about the latest innovations.",
+    "header": "Prodevans Brochures",
+    "thumbnailsImage": "Brochure Thumbnail",
+    "icons": "Icons",
+    "close": "Close",
+    "of": "of",
+    "pdf": "PDF Viewer",
+    "browser": " Your browser does not support PDFs.",
+    "download": "Download the PDF",
+    "thumbnail": {
+      "openshift": "Prodevans OpenShift Managed Service",
+      "corporate_brochure": "Prodevans Corporate Brochure",
+      "pd_cloudex": "PDCloudEX",
+      "iventura": "iVentura Profile",
+      "ansible_managed": "Prodevans Ansible Managed Service",
+      "openshift_brochure": "Openshift Brochure",
+      "pd_profile": "Prodevans Profile",
+      "service_desk": "Service Desk Brochure"
+    }
+  },
+  "TicketingPage": {
+    "title": "Open Source Solutions Service Desk - Streamline Your Support",
+    "description": "Explore Prodevans' open-source service desk solutions designed to enhance customer support and IT management.",
+    "bannerTitle": "OUR TICKETING",
+    "subTitle": "Open Source Solutions Service Desk",
+    "altName": "Logo",
+    "serviceDeskContent": "At Prodevans, we understand the importance of efficient customer support and IT management. Our open-source service desk solutions are designed to help you deliver exceptional service and achieve operational excellence.",
+    "ticketingContent": "Ready to take your customer support to the next level? Explore our Open Source Solutions Service Desk offerings, and let us be your partner in providing top-notch support to your customers and users. Ask Us Anything or Contact Us."
+  },
+  "PrivacyPolicyPage": {
+    "title": "Prodevans Privacy Policy",
+    "description": "Prodevans places a high emphasis on the privacy of its users and is committed to protect it in all respects.",
+    "header": "Our Privacy Policy",
+    "policyContent": " Prodevans places a high emphasis on the privacy of its users and is committed to protect it in all respects.",
+    "altName": "icons",
+    "policies": {
+      "typesOfData": {
+        "title": " Types of data we collect",
+        "summaryList": [
+          "Contact details",
+          "Financial information",
+          "Data from your contracts",
+          "Data that identifies you",
+          "Data on how you use"
+        ],
+        "desciption": "policy",
+        "subHeader": "Tell me why"
+      },
+      "useYourData": {
+        "title": "How we use your data",
+        "summaryList": [
+          "To keep data running",
+          "To helps us improve",
+          "To give personalised customer support",
+          "To send your marketing messages"
+        ],
+        "desciption": "policy",
+        "subHeader": "How Exactly?"
+      },
+      "process": {
+        "title": "Third parties who process your data",
+        "summaryList": [
+          "Infrastructure: Aws, MongoDB",
+          "Analytics: Google Analytics, Heap, Metabase",
+          "Integrations: slack, Google",
+          "comms: Hubscom, Intercom",
+          "Payments: stripe"
+        ],
+        "desciption": "The following services helps us keep data running by storing or processing your data",
+        "subHeader": "What do they do?"
+      },
+      "cookies": {
+        "title": "We use cookies",
+        "summaryList": [
+          "We use only necessary cookies to run & improve the service",
+          "Our third party service providers use cookies too",
+          "You can turn off cookies but this will mean for example that we can't recognise you in app-messaging "
+        ],
+        "desciption": "",
+        "subHeader": "How can I choose?"
+      },
+      "collectData": {
+        "title": "When and how we collect data",
+        "userActionTitle": "DATA YOU GIVE",
+        "companyActionTitle": "DATA WE COLLECT",
+        "summaryList": [
+          "You browse any page of our website",
+          "You request a demo of prodevans ",
+          "We call you ",
+          "You use prodevans",
+          "You receieve emails from us",
+          "You view and sign contracts",
+          "You chat with us for customer support",
+          "You connect integrations (like slack)",
+          "You opt-in to marketing messages "
+        ],
+        "desciption": "We collect data from peolple browsing our customers, and people ",
+        "subHeader": "Am I Included?"
+      },
+      "rights": {
+        "title": "Know your rights",
+        "summaryList": [
+          "Access information we hold you",
+          "Opt-out of marketing comm",
+          "Port your data to your another service "
+        ],
+        "desciption": "",
+        "subHeader": "What can I do?"
+      },
+      "queries": {
+        "title": "",
+        "summaryList": [
+          ""
+        ],
+        "desciption": "If you have any concerns about your privacy at prodevans please email us at support@prodevans.com or hit the intercom button to start chatting with us",
+        "subHeader": ""
+      }
+    }
+  },
+  "FooterPage": {
+    "title": "Contact Prodevans - Reach Out for Tech Excellence",
+    "description": "Find our contact information and get in touch with Prodevans for all your tech needs.",
+    "logoAlt": "Footer prodevans logo",
+    "copyRight": "Copyright © 2023 Prodevans Website",
+    "footerForm": {
+      "header": "Get In Touch",
+      "subHeader": "Let us collaborate to create your digital future",
+      "content": "Let's Connect!",
+      "subContent": "Ready to take the first step towards a digital future? Contact us today to schedule a consultation. Our team is eager to understand your unique challenges and goals, providing insights and solutions that will propel your business forward.",
+      "button": "Submit",
+      "placeholders": {
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Enter your email",
+        "message": "Enter your message",
+        "logo": "Prodevans Logo",
+        "mobile": "Enter your mobile number",
+        "formIcons": "Form Icons"
+      },
+      "formError": {
+        "requiredField": {
+          "firstName": "Fist Name is required",
+          "lastName": "Last Name is required",
+          "email": "Email is required",
+          "message": "Message is required",
+          "mobile": "Mobile number is required"
+        },
+        "validateFrom": {
+          "firstName": "First Name cannot contain numbers",
+          "lastName": "Last Name cannot contain numbers",
+          "email": "Invalid email address",
+          "mobile": "Mobile should be valid numbers"
+        }
+      },
+      "loaderMessage": {
+        "createUser": "Please wait.. Creating user with email: ",
+        "searchEmail": "Please wait.. Checking if user exists or not",
+        "createTicket": "Please wait.. Generating ticket"
+      },
+      "toastMessage": {
+        "serverError": "We could not able to create ticket. Please try again later",
+        "createTicket": "We have recieved your message. Here is the ticket No for reference : "
+      }
+    },
+    "footerMenu": {
+      "about": {
+        "header": "About",
+        "menu": {
+          "aboutUs": "About Us",
+          "blog": "Blog",
+          "inPress": "In Press"
+        }
+      },
+      "company": {
+        "header": "Company",
+        "menu": {
+          "career": "Career",
+          "lifeAtProdevans": "Life At Prodevans",
+          "brochures": "Brochures",
+          "events": "Events"
+        }
+      },
+      "support": {
+        "header": "Support",
+        "menu": {
+          "contactUs": "Contact Us",
+          "onlineChat": "Online Chat",
+          "telegram": "Telegram",
+          "ticketing": "Ticketing",
+          "privacyPolicy": "Privacy Policy"
+        }
+      },
+      "faq": {
+        "header": "FAQ",
+        "menu": {
+          "services": "Services",
+          "products": "Products"
+        }
+      }
+    }
+  },
+  "NotFoundPage": {
+    "title": "Page not found",
+    "description": "Error page not found",
+    "header": "Page Not Found",
+    "subHeader": "The page you have requested could not found",
+    "backButton": "Go To Home"
+  }
+}
